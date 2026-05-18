@@ -1,0 +1,12 @@
+{
+  "name": "frontend-design-skill",
+  "version": "1.0.0",
+  "description": "前端设计技能包，提供UI组件、样式设计、交互效果等功能",
+  "main": "frontend-design.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["frontend", "design", "ui", "component", "tailwindcss"],
+  "author": "",
+  "license": "MIT"
+}
